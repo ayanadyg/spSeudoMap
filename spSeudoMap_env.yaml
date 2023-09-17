@@ -16,7 +16,7 @@ dependencies:
   - networkx=2.7.1
   - numba=0.55.1
   - numexpr=2.7.3
-  - numpy=1.22.0
+  - numpy=1.26.0
   - openjpeg=2.4.0
   - openssl=3.0.2
   - packaging=21.3
