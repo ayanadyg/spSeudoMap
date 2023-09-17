@@ -7,7 +7,7 @@ setup(
     url = "https://github.com/ayanadyg/spSeudoMap.git",
     packages = find_packages(include=['spSeudoMap', 'spSeudoMap.*']),
     author = "Sungwoo Bae, Hongyoon Choi",
-    install_requires = ["scanpy==1.9.1","pandas==1.3.5","numpy==1.22.0",
+    install_requires = ["scanpy==1.9.1","pandas==1.3.5","numpy==1.26.0",
                         "h5py==3.9.0", "jupyter",
                         "keras==2.12.0", "tensorflow==2.12.0"]
 )
