@@ -4,7 +4,7 @@ setup(
     name = "spSeudoMap",
     version = "1.0.0",
     description = "Cell type mapping of spatial transcriptomics using unmatched single-cell RNA-seq data",
-    url = "https://github.com/bsungwoo/spSeudoMap.git",
+    url = "https://github.com/ayanadyg/spSeudoMap.git",
     packages = find_packages(include=['spSeudoMap', 'spSeudoMap.*']),
     author = "Sungwoo Bae, Hongyoon Choi",
     install_requires = ["scanpy==1.5.1","pandas==1.3.5","numpy==1.22.0",
