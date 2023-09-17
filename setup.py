@@ -8,6 +8,6 @@ setup(
     packages = find_packages(include=['spSeudoMap', 'spSeudoMap.*']),
     author = "Sungwoo Bae, Hongyoon Choi",
     install_requires = ["scanpy==1.5.1","pandas==1.3.5","numpy==1.22.0",
-                        "h5py==3.5.0", "jupyter",
+                        "h5py==3.9.0", "jupyter",
                         "keras==2.12.0", "tensorflow==2.12.0"]
 )
