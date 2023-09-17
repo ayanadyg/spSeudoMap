@@ -33,4 +33,4 @@ dependencies:
   - tensorflow=2.12.0
   - tensorflow-gpu=2.12.0
   - umap-learn=0.5.3
-prefix: C:\Users\USER\Anaconda3\envs\spSeudoMap
+prefix: ~/anaconda3/envs/spSeudoMap
